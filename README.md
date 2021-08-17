@@ -14,19 +14,14 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 __Conduent, Remote (Sept. ‘17–Present)__
 
-* Serve client as technical analyst, bridging gaps between client and developer team during development of new web applications. 
-* Conduct analysis of new system, define user needs, structure and develop technical documentation for end user groups
-* Work with client stakeholders to explain project to technical team and coordinate with them throughout the project development.
-* Communicate user needs to Product Owner, define different user groups, write user stories, and structure documentation 
-* Learn new technology quickly and assist stakeholders and end users with clear instructions and useful resources
-* Extract, transform, and load data from multiple sources to model data and provide visualizations for stakeholders
-* Use highly proficient writing, editing and proofreading skills to produce engaging and error-free documentation
-* Edit and standardize existing documentation to conform with updates to process or other system components
-* Meet with stakeholders to review project status, conduct workflow analysis, validate data and documentation
-* Observed in-progress operations to identify important steps for process documentation
-* Achieved 100% satisfaction rating from client last four years
-* Present new technology and other technical documents to help upskilling withing department
-* Prove successful working within tight deadlines and fast-paced atmosphere
+* Bridge gaps between client and developers with analysis, communication, and documentation 
+* Work closely with client and Product Owner to define use case specifications, documentation 
+* Learn new applications and assist client define user needs, conduct workflow analysis 
+* Assist owner with user acceptance testing and user training and onboarding 
+* Test use cases in validation and testing environments; capture process or UI updates 
+* Structure training courses, develop user guide templates, define needs for user training 
+* Meet regular with client and Product Owner to review project status, provide change requests
+* Achieved 100% rating from client last four years; responsive and customer-oriented
 
 ### Technical Writer
 
