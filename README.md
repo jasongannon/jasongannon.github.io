@@ -16,12 +16,6 @@ Good working knowledge of Agile cultures and software development. Experienced s
 |   |  Github, VS Code | Digital media editing |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 ## Skills
 
