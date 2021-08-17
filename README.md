@@ -8,6 +8,11 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 ## Software & technology
 
+Novice      Intermediate                        Expert
+------      ------------                        ------
+C#, Java    Server side (Git, SQL, PHP, ASP)    sdf
+
+
 ## Work history
 
 ### Technical Writer Services Analyst 
