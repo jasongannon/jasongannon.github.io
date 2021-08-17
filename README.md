@@ -6,17 +6,6 @@ Senior technical writer and analyst with 17 years’ experience producing clear,
 Flexible and hardworking; eager to help colleagues and stakeholders organize important information and drive projects towards success. 
 Good working knowledge of Agile cultures and software development. Experienced supporting Product Owners, designers, and developers.
 
-## Software & technology
-
-| Novice | Intermediate | Advanced |
-|--------|--------------|-------|
-| C#, Java, Ruby | JavaScript, React, JSON | MS Office |
-| Terraform, AWS, Azure, GCP | RESTful APIs | XML, Markdown |
-| Server side (Git, SQL, PHP, ASP)  | HTML, CSS, SVG |  Adobe InDesign, Microsoft Publisher |
-|   |  Github, VS Code | Digital media editing |
-|   |   |   |
-|   |   |   |
-
 ## Skills
 
 | Novice | Intermediate | Advanced |
@@ -28,6 +17,17 @@ Good working knowledge of Agile cultures and software development. Experienced s
 |   |   |   |
 |   |   |   |
 |   |   |   |
+|   |   |   |
+|   |   |   |
+
+## Software & technology
+
+| Novice | Intermediate | Advanced |
+|--------|--------------|-------|
+| C#, Java, Ruby | JavaScript, React, JSON | MS Word, Excel, PowerPoint |
+| Terraform, AWS, Azure, GCP | RESTful APIs | XML, Markdown |
+| Server side (Git, SQL, PHP, ASP)  | HTML, CSS, SVG |  Adobe InDesign, Microsoft Publisher |
+|   |  Github, VS Code | Adobe Photoshop, Premiere |
 |   |   |   |
 |   |   |   |
 
