@@ -23,7 +23,19 @@ Good working knowledge of Agile cultures and software development. Experienced s
 |   |   |   |
 |   |   |   |
 
+## Skills
 
+| Novice | Intermediate | Expert |
+|--------|--------------|-------|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ## Work history
 
