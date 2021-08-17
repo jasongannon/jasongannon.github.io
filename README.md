@@ -8,12 +8,12 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 ## Software & technology
 
-| Novice | Intermediate | Expert |
+| Novice | Intermediate | Advanced |
 |--------|--------------|-------|
-| C#, Java | Server side (Git, SQL, PHP, ASP) | MS Office |
-| Terraform, AWS, Azure, GCP | JavaScript, React, JSON | XML, XSLT, XPATH, XQuery |
-|   |   |   |
-|   |   |   |
+| C#, Java, Ruby | JavaScript, React, JSON | MS Office |
+| Terraform, AWS, Azure, GCP | RESTful APIs | XML, Markdown |
+| Server side (Git, SQL, PHP, ASP)  | HTML, CSS, SVG |  Adobe InDesign, Microsoft Publisher |
+|   |  Github, VS Code | Digital media editing |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -25,7 +25,7 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 ## Skills
 
-| Novice | Intermediate | Expert |
+| Novice | Intermediate | Advanced |
 |--------|--------------|-------|
 |   |   |   |
 |   |   |   |
