@@ -61,7 +61,7 @@ Good working knowledge of Agile cultures and software development. Experienced s
 * Participated in continuous improvement by generating suggestions, engaging in problem-solving activities to support teamwork
 * Carefully documented technical workflows in private wiki for education of newly hired employees
 
-### Project Manager/Proposal Manager
+### Project Manager
 
 #### The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)
 
