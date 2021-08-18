@@ -21,7 +21,7 @@ Good working knowledge of Agile cultures and software development. Experienced s
 | C#, Java, Ruby | JavaScript, React, JSON | MS Word, Excel, PowerPoint |
 | Terraform, AWS, Azure, GCP | REST APIs | XML (oXygen), Markdown |
 | Server side (SQL, PHP, ASP)  | HTML, CSS, SVG | UML diagram (Edraw Max, Viseo) |
-| Maven, Jenkins, Docker  | Github, (version & source control) | Adobe InDesign, RoboHelp, MS Publisher |
+| Maven, Jenkins, Docker  | Github, (source control) | Adobe InDesign, RoboHelp, MS Publisher |
 | IDEs (Visual Studio, Eclipse) | Visual Studio Code  | Media editors (Adobe Photoshop, Premiere)  |
 
 ## Work history
