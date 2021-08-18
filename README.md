@@ -18,14 +18,11 @@ Web: &nbsp;[www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
 
 ## Summary
 
-During my career as a technical writer, I’ve developed skills for communicating complex information in clear ways. I am an English major with a strong understanding of language—style, usage, and grammar. I have well-developed software skills, and I place an emphasis on team building and problem solving. I enjoy engaging with projects early and mapping out the relevant information.
+During my career as a technical writer, I’ve developed skills for communicating complex information in clear ways. I have well-developed technical skills, and I place an emphasis on team building, problem solving, and open communication.
 
-My role is to learn systems and work with clients and developer teams to identify user requirement, craft specifications, and analyze user workflows. I am flexible and hard-working; eager to support colleagues and take ownership of projects. I enjoy learning new things and am currently improving my understanding of backend development, cloud computing, and cybersecurity needs.
+My role is to learn systems and work with clients and developer teams to identify user requirement, craft specifications, and analyze user workflows. I am flexible and hard-working; eager to support colleagues and assist stakeholders to define requirements.
 
-Research and planning are important to me; I prefer rigourous, well-defined processes. I am a strong editor and work with stakeholders to continually improve documentation. To avoid wordy text, I try to delete what is unnecessary, providing only essential or useful information. I adhere to relevant style guides and incorporate images and video to make information more engaging.
-
-I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success.
-
+I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success. 
 
 ## Skills
 
@@ -36,8 +33,6 @@ I am proficient with computers and a range of software, including a very strong 
 | DevOps, infrastructure as code | Information architecture |
 | Cloud computing, web services | Writing, editing |
 
-
-
 ## Software & technology
 
 | Intermediate | Advanced |
@@ -46,7 +41,6 @@ I am proficient with computers and a range of software, including a very strong 
 | Object-oriented programming | XML (oXygen), Markdown |
 | Backend web development | Front-end web development |
 | GitHub, Visual Studio Code | Adobe InDesign, RoboHelp, MS Publisher |
-
 
 ## Work history
 
