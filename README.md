@@ -14,7 +14,7 @@ Web: &nbsp;[www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.github.com/jasongannon/](www.github.com/jasongannon/  "www.github.com/jasongannon/")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/  "www.linkedin.com/in/jasonmgannon/")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.linkedin.com/in/jasonmgannon/](https://linkedin.com/in/jasonmgannon/  "www.linkedin.com/in/jasonmgannon/")
 
 ## Summary
 
