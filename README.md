@@ -2,6 +2,10 @@
 
 ## Contact information
 
+Address: Indianapolis, IN
+Email: jason.gannon at protonmail dot com
+Phone: (765) six, one, five, six, three, three, two
+
 ## Summary
 
 Senior technical writer and analyst with 17 years’ experience producing clear, concise, accurate technical documentation. Extensive experience producing documentation for software development teams.
