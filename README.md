@@ -8,7 +8,13 @@ Email: jason dot gannon at protonmail dot com
 
 Phone: seven, six, five six, one, five, six, three, three, two
 
-Webpage: [www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
+Web: &nbsp;[www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.jasongannon.github.io](https://www.jasongannon.github.io  "www.jasongannon.github.io")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.github.com/jasongannon/](www.github.com/jasongannon/  "www.github.com/jasongannon/")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/  "www.linkedin.com/in/jasonmgannon/")
 
 ## Summary
 
