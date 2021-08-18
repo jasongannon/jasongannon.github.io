@@ -3,46 +3,41 @@
 ## Senior technical writer and analyst
 
 Senior technical writer and analyst with 17 years’ experience producing clear, concise, accurate technical documentation. Extensive experience producing documentation for software development teams.
-Flexible and hardworking; eager to help colleagues and stakeholders organize important information and drive projects towards success. 
+Flexible and hardworking; eager to help colleagues and stakeholders organize important information and drive projects towards success.
 Good working knowledge of Agile cultures and software development. Experienced supporting Product Owners, designers, and developers.
 
 ## Skills
 
 | Novice | Intermediate | Advanced |
 |--------|--------------|-------|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| DevOps, Infrastructure as code  |  Front-end development | Technical documentation |
+| Backend development | Software Development Life Cycle  | Writing, editing, proofreading |
+| Cross-platform software | Cloud computing concepts  | Information architecture |
+| Security, Cryptography | Networking; client-server model | Business analysis |
+| Unit testing, integration testing | System testing |  Agile (Scrum, Kanban) |
 
 ## Software & technology
 
 | Novice | Intermediate | Advanced |
 |--------|--------------|-------|
 | C#, Java, Ruby | JavaScript, React, JSON | MS Word, Excel, PowerPoint |
-| Terraform, AWS, Azure, GCP | RESTful APIs | XML, Markdown |
-| Server side (Git, SQL, PHP, ASP)  | HTML, CSS, SVG |  Adobe InDesign, Microsoft Publisher |
-|   |  Github, VS Code | Adobe Photoshop, Premiere |
-|   |   |   |
-|   |   |   |
+| Terraform, AWS, Azure, GCP | REST APIs | XML (oXygen), Markdown |
+| Server side (SQL, PHP, ASP)  | HTML, CSS, SVG | UML diagram (Edraw Max, Viseo) |
+| Maven, Jenkins, Docker  | Github, (version & source control) | Adobe InDesign, RoboHelp, MS Publisher |
+| IDEs (Visual Studio, Eclipse) | Visual Studio Code  | Media editors (Adobe Photoshop, Premiere)  |
 
 ## Work history
 
-### Technical Writer Services Analyst 
+### Technical Writer Services Analyst
 
 __Conduent, Remote (Sept. ‘17–Present)__
 
-* Bridge gaps between client and developers with analysis, communication, and documentation 
-* Work closely with client and Product Owner to define use case specifications, documentation 
-* Learn new applications and assist client define user needs, conduct workflow analysis 
-* Assist owner with user acceptance testing and user training and onboarding 
-* Test use cases in validation and testing environments; capture process or UI updates 
-* Structure training courses, develop user guide templates, define needs for user training 
+* Bridge gaps between client and developers with analysis, communication, and documentation
+* Work closely with client and Product Owner to define use case specifications, documentation
+* Learn new applications and assist client define user needs, conduct workflow analysis
+* Assist owner with user acceptance testing and user training and onboarding
+* Test use cases in validation and testing environments; capture process or UI updates
+* Structure training courses, develop user guide templates, define needs for user training
 * Meet regular with client and Product Owner to review project status, provide change requests
 * Achieved 100% rating from client last four years; responsive and customer-oriented
 
