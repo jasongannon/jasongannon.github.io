@@ -42,10 +42,10 @@ I am proficient with computers and a range of software, including a very strong 
 
 | Intermediate | Advanced |
 |--------------|-------|
-| JavaScript, JQuery, JSON | MS Word, PowerPoint, Excel (w/ Power Query) |
+| JavaScript, jQuery, JSON | MS Word, PowerPoint, Excel (w/ Power Query) |
 | Object-oriented programming | XML (oXygen), Markdown |
 | Backend web development | Front-end web development |
-| Github, Visual Studio Code | Adobe InDesign, RoboHelp, MS Publisher |
+| GitHub, Visual Studio Code | Adobe InDesign, RoboHelp, MS Publisher |
 
 
 ## Work history
