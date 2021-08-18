@@ -1,5 +1,3 @@
-# Jason Gannon
-
 ## Senior technical writer and analyst
 
 Senior technical writer and analyst with 17 years’ experience producing clear, concise, accurate technical documentation. Extensive experience producing documentation for software development teams.
