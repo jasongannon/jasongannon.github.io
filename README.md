@@ -10,9 +10,13 @@ Phone: seven, six, five six, one, five, six, three, three, two
 
 ## Summary
 
-Senior technical writer and analyst with 17 years’ experience producing clear, concise, accurate technical documentation. Extensive experience producing documentation for software development teams.
-Flexible and hardworking; eager to help colleagues and stakeholders organize important information and drive projects towards success.
-Good working knowledge of Agile cultures and software development. Experienced supporting Product Owners, designers, and developers.
+During my career as a technical writer, I’ve developed skills for communicating complex information in clear ways. I am an English major with a strong understanding of language—style, usage, and grammar. I have well-developed software skills, and I place an emphasis on team building and problem solving. I enjoy engaging with projects early and mapping out the relevant information.
+
+My role is to learn systems and work with clients and developer teams to identify user requirement, craft specifications, and analyze user workflows. I am flexible and hard-working; eager to support colleagues and take ownership of projects. I enjoy learning new things and am currently improving my understanding of backend development, cloud computing, and cybersecurity needs.
+
+Research and planning are important to me; I prefer rigourous, well-defined processes. I am a strong editor and work with stakeholders to continually improve documentation. To avoid wordy text, I try to delete what is unnecessary, providing only essential or useful information. I adhere to relevant style guides and incorporate images and video to make information more engaging.
+
+I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success.
 
 
 <table>
