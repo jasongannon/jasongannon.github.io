@@ -8,6 +8,8 @@ Email: jason dot gannon at protonmail dot com
 
 Phone: seven, six, five six, one, five, six, three, three, two
 
+Webpage: [www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
+
 ## Summary
 
 During my career as a technical writer, I’ve developed skills for communicating complex information in clear ways. I am an English major with a strong understanding of language—style, usage, and grammar. I have well-developed software skills, and I place an emphasis on team building and problem solving. I enjoy engaging with projects early and mapping out the relevant information.
