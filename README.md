@@ -30,7 +30,7 @@ I am proficient with computers and a range of software, including a very strong 
 
 
 
-## Software & technology>
+## Software & technology
 
 | Intermediate | Advanced |
 |--------------|-------|

@@ -19,9 +19,7 @@ Research and planning are important to me; I prefer rigourous, well-defined proc
 I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success.
 
 
-<table>
-<tr><th>Skills</th> <th>Software & Technology</th></tr>
-<tr><td>
+## Skills
 
 | Intermediate | Advanced |
 |--------------|-------|
@@ -32,7 +30,7 @@ I am proficient with computers and a range of software, including a very strong 
 
 
 
-</td><td>
+## Software & technology>
 
 | Intermediate | Advanced |
 |--------------|-------|
@@ -41,8 +39,6 @@ I am proficient with computers and a range of software, including a very strong 
 | Backend web development | Front-end web development |
 | Github, Visual Studio Code | Adobe InDesign, RoboHelp, MS Publisher |
 
-
-</td></tr> </table>
 
 ## Work history
 
