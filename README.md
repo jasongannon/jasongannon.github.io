@@ -28,7 +28,7 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 ### Technical Writer Services Analyst
 
-__Conduent, Remote (Sept. ‘17–Present)__
+#### Conduent, Remote (Sept. ‘17–Present)
 
 * Bridge gaps between client and developers with analysis, communication, and documentation
 * Work closely with client and Product Owner to define use case specifications, documentation
@@ -41,7 +41,7 @@ __Conduent, Remote (Sept. ‘17–Present)__
 
 ### Technical Writer
 
-__Self-Employed, Remote (Oct. ’10–Aug. ’17)__
+#### Self-Employed, Remote (Oct. ’10–Aug. ’17)
 
 * Created technical documentation for clients such as IBM, HPE, Nokia, EPAM Systems, Ernst & Young, Rubik's Brand Limited
 * Wrote and edited user guides, white papers, release notes, API documentation, troubleshooting guides, web content
@@ -53,7 +53,7 @@ __Self-Employed, Remote (Oct. ’10–Aug. ’17)__
 
 ### Project Manager/Proposal Manager
 
-__The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)__
+#### The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)
 
 * Managed all phases of proposal development, from early bid and scope, led stakeholder meetings
 * Constructed budgets and estimates ranging from $1–50 M for public and privately funded construction projects
@@ -64,7 +64,6 @@ __The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)__
 
 ## Education
 
-__Bachelor of Arts: English Literature__
-_Minor in Economics_
+### Bachelor of Arts: English Literature _Minor in Economics_
 
-Purdue University - West Lafayette, IN (May 2004)
+#### Purdue University - West Lafayette, IN (May 2004)
