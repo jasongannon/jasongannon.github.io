@@ -64,6 +64,6 @@ Good working knowledge of Agile cultures and software development. Experienced s
 
 ## Education
 
-### Bachelor of Arts: English Literature _Minor in Economics_
+### Bachelor of Arts: English Literature, minor in Economics
 
 #### Purdue University - West Lafayette, IN (May 2004)
