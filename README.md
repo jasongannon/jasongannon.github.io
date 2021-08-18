@@ -80,11 +80,11 @@ I am proficient with computers and a range of software, including a very strong 
 #### The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)
 
 * Managed all phases of proposal development, from early bid and scope, led stakeholder meetings
-* Constructed budgets and estimates ranging from $1–50 M for public and privately funded construction projects
-* Managed design and engineering team SMEs to review proposal documents and prepare system descriptions
-* Helped increase office revenue by over 300% within one two-year period
-* Used cost estimation systems to document project information, create estimates and revise project costs to reflect current data
-* Devised, enhanced, and communicated deliverable timetables by reviewing project requirements, scope, and resources to make accurate assessments
+* Constructed budgets and estimates ranging from $10–50 M for federal construction projects
+* Coordinated with engineering team SMEs to prepare system and project descriptions for federal proposals
+* Helped increase office revenue by over 300% within one two-year period; highly successful winning federal work
+* Used cost estimation software and databases to create estimates; included building department database (MS Access)
+* Developed and communicated timetables by reviewing project requirements, scope, and resources
 
 ## Education
 
