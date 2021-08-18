@@ -22,7 +22,7 @@ During my career as a technical writer, I’ve developed skills for communicatin
 
 My role is to learn systems and work with clients and developer teams to identify user requirement, craft specifications, and analyze user workflows. I am flexible and hard-working; eager to support colleagues and assist stakeholders to define requirements.
 
-I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success. 
+I am proficient with computers and a range of software, including a very strong knowledge of desktop and web publishing. I am analytical in my approach to the work, relying on proven methods and open communication to steer the project towards success.
 
 ## Skills
 
