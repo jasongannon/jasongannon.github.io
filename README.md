@@ -11,7 +11,7 @@ Good working knowledge of Agile cultures and software development. Experienced s
 | Novice | Intermediate | Advanced |
 |--------|--------------|-------|
 | DevOps, Infrastructure as code  |  Front-end development | Technical documentation |
-| Backend development | Software Development Life Cycle  | Writing, editing, proofreading |
+| Backend development | Software Development Life Cycle  | Project management |
 | Cross-platform software | Cloud computing concepts  | Information architecture |
 | Security, Cryptography | Networking; client-server model | Business analysis |
 | Unit testing, integration testing | System testing |  Agile (Scrum, Kanban) |
