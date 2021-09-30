@@ -4,7 +4,7 @@
 
 Address: Indianapolis, IN
 
-Email: jason.gannon@protonmail.com
+Email: jason (dot) gannon (at) protonmail.com
 
 Phone: (765) 615-6332
 
@@ -12,40 +12,45 @@ Web: &nbsp;[www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
 
 ## Summary
 
-I write great product documentation for end users and system administrators: user manuals, cheat sheets, quick reference guides, and hardware installation manuals.
+Senior technical writer. Currently working on API documentation in Fintech industry.
 
 ## Skills
 
 - Writing, editing, proofreading
-- Audience research; user-centered design
+- Software development (not a specialist)
 - SME interviews, workflow analysis
 - Information architecture
-- Project management
+- webAPI design and testing
 
 ## Software & technology
 
 - MS Office, Google Docs, Markdown
-- XML editors, XSLT
-- Content Management Systems
-- UML diagramming software
-- HTML, CSS, JavaScript
+- Visual Studio '19, VS Code
+- Postman, Swagger
+- Open API Specification
+- Agile, SDLC
 
 ## Work history
 
 ### Technical Writer Services Analyst
 
-#### Conduent, Remote (Sept. ‘17–Present)
+#### Statement IQ, Remote (Sep '21–present)
 
-- Write and edit web-based product support—step guides, cheat sheets, video tutorials
-- Perform workflow and task analysis with SMEs
-- Quickly learn new systems and create step guides for user tasks
-- Validate step guides in the testing environment; note updates to UI or functionality
+- API testing and documentation
+- Create open API specifications
+- Work with engineers during design, CI/CD of webAPIs
+
+#### Conduent, Remote (Sep '17–Sep '21)
+
+- Wrote and edited web-based product support—step guides, cheat sheets, video tutorials
+- Performed workflow and task analysis with SMEs
+- Validate step guides in the testing environment (UAT); note updates to UI or functionality
 - Structure training courses, develop user guide templates, write scripts for video tutorials
 - Achieved 100% rating from client last four years; responsive and customer-oriented
 
 ### Technical Writer
 
-#### Self-Employed, Remote (Oct. ’10–Aug. ’17)
+#### Self-Employed, Remote (Oct ’10–Aug ’17)
 
 - Developed user guides, testing guidelines, system descriptions, installation manuals
 - Prepared API documentation using plain language and abundant code examples
@@ -54,7 +59,7 @@ I write great product documentation for end users and system administrators: use
 
 ### Project Manager
 
-#### The Korte Company, Las Vegas, Nevada (Sept. 04’–Sept. ’10)
+#### The Korte Company, Las Vegas, Nevada (Sep 04’–Sep ’10)
 
 - Managed proposal development, including systems descriptions, cover letters, resumes
 - Coordinated with subcontractors to provide budget and schedule for proposal
