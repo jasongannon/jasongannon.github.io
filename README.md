@@ -1,4 +1,4 @@
-# Jason Gannon—Senior technical writer and analyst
+# Jason Gannon—Senior technical writer
 
 ## Contact information
 
