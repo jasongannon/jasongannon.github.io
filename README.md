@@ -17,7 +17,7 @@ Senior technical writer. Currently working on API documentation in Fintech indus
 ## Skills
 
 - Writing, editing, proofreading
-- Software development (not a specialist)
+- Software development
 - SME interviews, workflow analysis
 - Information architecture
 - webAPI design and testing
