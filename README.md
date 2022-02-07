@@ -8,11 +8,9 @@ Email: jason (dot) gannon (at) protonmail.com
 
 Phone: (7-six-5) six-1-5-six-3-3-two
 
-Web: &nbsp;[www.jasongannon.com](https://jasongannon.com "www.jasongannon.com")
-
 ## Summary
 
-Senior technical writer. Currently working on API documentation in Fintech industry.
+Senior technical writer. Over 18 years technical writing experience and over 12 years experience in software development. Currently focused on Jamstack and web api technology: design, development, and documentation. Committed to providing exceptional developer experiences. 
 
 ## Skills
 
