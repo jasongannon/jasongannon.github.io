@@ -10,7 +10,7 @@ Phone: (7-six-5) six-1-5-six-3-3-two
 
 ## Summary
 
-Senior technical writer. Over 18 years technical writing experience and over 12 years experience in software development. Currently focused on Jamstack and web api technology: design, development, and documentation.
+Senior technical writer. Over 18 years technical writing experience and over 12 years experience in software development. Currently focused on Jamstack and Web API technology: design, development, and documentation.
 
 Committed to providing exceptional developer experiences. 
 
