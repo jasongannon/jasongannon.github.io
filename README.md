@@ -16,19 +16,19 @@ Senior technical writer. Currently working on API documentation in Fintech indus
 
 ## Skills
 
-- Writing, editing, proofreading
-- Software development
-- SME interviews, workflow analysis
-- Information architecture
-- webAPI design and testing
+- Technical documentation
+- Front-end development
+- REST API design, testing, and documentation
+- Web App design and development: Jamstack
+- Videography; image and audio editing
 
 ## Software & technology
 
-- MS Office, Google Docs, Markdown
-- Visual Studio '19, VS Code
+- Javascript, React, Node.js
+- Markdown, HTML, CSS
 - Postman, Swagger
-- Open API Specification
-- Agile, SDLC
+- Javascript, React
+- XML, JSON, YAML
 
 ## Work history
 
@@ -36,26 +36,27 @@ Senior technical writer. Currently working on API documentation in Fintech indus
 
 #### Statement IQ, Remote (Sep '21–present)
 
-- API testing and documentation
-- Create open API specifications
-- Work with engineers during design, CI/CD of webAPIs
+- REST API design, testing, and documentation
+- Web app design/development--Jamstack
+- Process & product docs: API reference, dev standards, BRDs, sysadmin docs, et al.
+- Videography, audio & image editing 
+- Tech stack: Azure, Kubernetes, .NET Core, C#, JavaScript, Node.js, React, Gatsby; Markdown
 
 #### Conduent, Remote (Sep '17–Sep '21)
 
-- Wrote and edited web-based product support—step guides, cheat sheets, video tutorials
-- Performed workflow and task analysis with SMEs
-- Validate step guides in the testing environment (UAT); note updates to UI or functionality
-- Structure training courses, develop user guide templates, write scripts for video tutorials
-- Achieved 100% rating from client last four years; responsive and customer-oriented
+- Business analyst for system owner during creation of enterprise web apps
+- Confirm system owner requirements in UAT
+- Design documentation and plan end user onboarding
+- Validated drafts of step guides in the testing environment; capture system updates
 
 ### Technical Writer
 
 #### Self-Employed, Remote (Oct ’10–Aug ’17)
 
-- Developed user guides, testing guidelines, system descriptions, installation manuals
-- Prepared API documentation using plain language and abundant code examples
+- Front-end development: JavaScript, HTML, CSS 
+- Prepared API documentation and managed CMS
 - Worked with a global team of developers, product owners, scrum masters to aid documentation
-- Client list included Hewlett Packard, EY, PwC, Nokia, Ericsson, Siemens, E-PAM Systems
+- Client list included Hewlett Packard, EY, PwC, Nokia, Ericsson, Siemens, E-PAM Systemss
 
 ### Project Manager
 
