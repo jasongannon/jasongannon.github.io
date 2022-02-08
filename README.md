@@ -4,9 +4,9 @@
 
 Address: Indianapolis, IN
 
-Email: jason.gannon@protonmail.com
+Email: jason.gannon (at) protonmail.com
 
-Phone: (765) 615-6332
+Phone: (765) 6(one)5-6332
 
 ## Summary
 
