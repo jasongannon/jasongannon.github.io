@@ -1,12 +1,12 @@
-# Jason Gannon—Senior technical writer
+# Jason Gannon—API design/documentation
 
 ## Contact information
 
 Address: Indianapolis, IN
 
-Email: jason (dot) gannon (at) protonmail.com
+Email: jason.gannon@protonmail.com
 
-Phone: (7-six-5) six-1-5-six-3-3-two
+Phone: (765) 615-6332
 
 ## Summary
 
@@ -24,10 +24,9 @@ Committed to providing exceptional developer experiences.
 
 ## Software & technology
 
-- Javascript, React, Node.js
+- Javascript, React, Gatsby
 - Markdown, HTML, CSS
 - Postman, Swagger
-- Javascript, React
 - XML, JSON, YAML
 
 ## Work history
