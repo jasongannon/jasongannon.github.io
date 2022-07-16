@@ -4,7 +4,7 @@
 
 Address: Indianapolis, IN
 
-Email: jason.gannon (at) proton.me
+Email: jason.gannon74 (at) gmail.com
 
 Phone: (317) 7(nine)(two)-7(one)(nine)(zero)
 
