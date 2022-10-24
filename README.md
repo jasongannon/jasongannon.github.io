@@ -4,7 +4,7 @@
 
 Address: Indianapolis, IN
 
-Email: jason.gannon74 (at) gmail.com
+Email: jason.gannon (at) proton.me
 
 Phone: (317) 7(nine)(two)-7(one)(nine)(zero)
 
@@ -33,7 +33,7 @@ Committed to providing exceptional developer experiences.
 
 ### Technical Writer Services Analyst
 
-#### Statement IQ, Remote (Sep '21–present)
+#### Pace Software, Remote (Sep '21–present)
 
 - REST API design, testing, and documentation
 - Web app design/development--Jamstack
