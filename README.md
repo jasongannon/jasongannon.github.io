@@ -24,7 +24,7 @@ Committed to providing exceptional developer experiences.
 
 ## Software & technology
 
-- Javascript, React, Gatsby
+- .NET, Javascript, React
 - Markdown, HTML, CSS
 - Postman, Swagger
 - XML, JSON, YAML
