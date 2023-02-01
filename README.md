@@ -1,4 +1,4 @@
-# Jason Gannon—API design/documentation
+# Jason Gannon—Senior Technical Writer
 
 ## Contact information
 
