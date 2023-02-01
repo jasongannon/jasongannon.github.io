@@ -17,10 +17,8 @@ Committed to providing exceptional developer experiences.
 ## Skills
 
 - Technical documentation
-- Front-end development
+- Full-stack development
 - REST API design, testing, and documentation
-- Web App design and development: Jamstack
-- Videography; image and audio editing
 
 ## Software & technology
 
@@ -36,10 +34,10 @@ Committed to providing exceptional developer experiences.
 #### Pace Software, Remote (Sep '21–present)
 
 - REST API design, testing, and documentation
-- Web app design/development--Jamstack
+- Web app design/development
 - Process & product docs: API reference, dev standards, BRDs, sysadmin docs, et al.
 - Videography, audio & image editing 
-- Tech stack: Azure, Kubernetes, .NET Core, C#, JavaScript, Node.js, React, Gatsby; Markdown
+- Tech stack: Azure, Kubernetes, .NET
 
 #### Conduent, Remote (Sep '17–Sep '21)
 
