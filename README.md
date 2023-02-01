@@ -25,7 +25,6 @@ Committed to providing exceptional developer experiences.
 - .NET, Javascript, React
 - Markdown, HTML, CSS
 - Postman, Swagger
-- XML, JSON, YAML
 
 ## Work history
 
