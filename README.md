@@ -10,9 +10,7 @@ Phone: (317) 7(nine)(two)-7(one)(nine)(zero)
 
 ## Summary
 
-Senior technical writer. Over 18 years technical writing experience and over 12 years experience in software development. Currently focused on Jamstack and Web API technology: design, development, and documentation.
-
-Committed to providing exceptional developer experiences. 
+Senior technical writer. Over 13 years experience in software development. 
 
 ## Skills
 
@@ -22,9 +20,8 @@ Committed to providing exceptional developer experiences.
 
 ## Software & technology
 
-- .NET, Javascript, React
+- .NET, Javascript
 - Markdown, HTML, CSS
-- Postman, Swagger
 
 ## Work history
 
