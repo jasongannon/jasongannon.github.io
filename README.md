@@ -2,7 +2,7 @@
 
 ## Technical Writer | 14 Years in Software Development
 
-_Senior Technical Writer with a strong focus on API Documentation and great developer experiences. Strong understanding of the tools and methods needed to create create great developer experiences._
+_Senior Technical Writer with a strong focus on API Documentation and great developer documentation. Strong understanding of the tools and methods needed to create create great developer experiences._
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
