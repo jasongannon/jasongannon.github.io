@@ -1,8 +1,8 @@
 # Jason Gannon
 
-## Technical Writer | 14 Years in Software Development
+## Technical Writer 
 
-_Senior Technical Writer with a strong focus on API Documentation and great developer documentation. Strong understanding of the tools and methods needed to create create great developer experiences._
+_Senior Technical Writer with 14 years experience in software development and a strong focus on API documentation, style, governance, and collaboration. Experienced in working with product managers and developers to create engaging and useful developer experiences._
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
@@ -11,23 +11,24 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 ## Summary
 
 * Broad knowledge of software development concepts, such as Agile, OOP and functional programming, cloud-hosted architectures, Domain Driven Design, event-driven architecture, microservices architecture.
-* Strong knowledge of API documentation and the OpenAPI Specification.
-* Proficient with API tools, such as Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
-* Familiar with a variety of programming languages and technologies: .NET (C#), JavaScript, C++, Python, SQL.
-* Strong background in creating style guides for developer documentation.
+* Expertise in RESTful API documentation, design principles, and OpenAPI Specification.
+* Experience with API tools, such as Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
+* Proficient in various programming languages and technologies: .NET (C#), JavaScript, React.js, Python, SQL, MongoDB.
+* Strong background in creating and maintaining style guides for developer documentation, including API style guides.
+* Authored documentation for various authentication mechanisms, including OAuth, JWT, and API Keys.
 
 ---
 
 ## Work Experience
 
 ### Senior Technical Writer | Pace Software | Full-time | Sep 2021 - Present | Remote
-* Design, document, and govern RESTful APIs. Create documentation that adheres to Open API specifications.
-* Develop a Developer Portal using Redocly Portal.
-* Build a variety of diagrams and models with tools such as UML, C4, mermaid.js, plantUML, and diagrams (Python library). Provide clear visual representations of complex concepts.
-* DevPortal administrator — manage API references, business requirements documents (BRDs), technical specifications, design documents.
-* Product Management tasks include requirements gathering, writing product requirements documents, and business requirements documents.
-* Create end-user and internal documentation that effectively communicates essential information in a clear and accessible manner.
-* Navigate diverse technology stacks, including Azure, .NET Core, PostgreSQL, Kubernetes, React, and Kotlin.
+* Design, architect, and govern RESTful APIs developerment. Creating documentation that validates to Open API specification.
+* Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehesive information to developers
+* Build diagrams and models with tools like UML, C4, mermaid.js, plantUML. Work to provide clear models of complex concepts.
+* DevPortal administrator, edit API references, write business requirements documents (BRDs), technical specifications.
+* Perform several Product Management tasks, including requirements gathering, writing PRDs, and BRds.
+* Create both end-user and internal documentation that communicates essential information in a clear, accurate, and accessible manner.
+* Use a diverse tech stack, including Azure, .NET Core, PostgreSQL, Kubernetes, React, and Kotlin.
 
 ### Senior Technical Analyst | Conduent | Full-time | Sep 2017 - Sep 2021 | Remote
 * Analyst for system owner during creation of enterprise web apps.
@@ -57,9 +58,15 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 
 ## Skills
 
-* **Languages and Platforms:** .NET (C#), JavaScript, C++, Python, SQL, Azure, PostgreSQL, Docker Kubernetes.
+* **Programming Languages & Technologies:** .NET (C#), JavaScript, React.js, Python, SQL, Azure, PostgreSQL, Kubernetes.
 * **API Tools:** Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
-* **SSGs, Wikis**: Gatsby, Next.js, Hugo, MkDocs, Jekyll, GitHub Pages
 * **Documentation Formats & Methodologies:** Markdown, HTML, CSS, DOCX, PDF, LATEX, PANDOC, XML.
 * **Modeling & Diagram Tools:** UML, C4, mermaid.js, plantUML, diagrams (Python library).
 * **Version Control:** Git, GitHub, GitLab.
+
+
+
+<!---
+jasongannon/jasongannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
