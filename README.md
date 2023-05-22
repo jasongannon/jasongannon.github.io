@@ -1,6 +1,6 @@
 #Jason Gannon
 
-[select for resume](jasongannon.github.io)
+[select for resume](https://jasongannon.github.io)
 
 
 
