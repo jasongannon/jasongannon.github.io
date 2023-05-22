@@ -470,4 +470,38 @@ img {
     margin-top: 10px;
     padding-bottom: 0px;
     font-size: 12px;
+    
 }
+
+.fa {
+    padding: 0px;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.5;
+  }
+
+  .fa-github {
+    background: #000;
+    color: #fff;
+  }
+  .fa-linkedin {
+    background: #000;
+    color: #fff;
+  }
+  .fa-envelope {
+    background: #000;
+    color: #fff;
+  }
+  .fa-blog {
+    background: #000;
+    color: #fff;
+  }
+  
