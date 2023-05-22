@@ -22,8 +22,8 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 ## Work Experience
 
 ### Senior Technical Writer | Pace Software | Full-time | Sep 2021 - Present | Remote
-* Design, architect, and govern RESTful APIs developerment. Creating documentation that validates to Open API specification.
-* Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehesive information to developers
+* Design, architect, and govern RESTful APIs development. Creating documentation that validates to Open API specification.
+* Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehensive information to developers
 * Build diagrams and models with tools like UML, C4, mermaid.js, plantUML. Work to provide clear models of complex concepts.
 * DevPortal administrator, edit API references, write business requirements documents (BRDs), technical specifications.
 * Perform several Product Management tasks, including requirements gathering, writing PRDs, and BRds.

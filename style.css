@@ -430,3 +430,44 @@ input {
 img {
 	max-width: 100%;
 }
+
+/* My stuff */
+
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 0px; /* Add top padding */
+  padding-bottom: 0px; /* Add bottom padding */
+  color: #04AA6D; /* White text color */
+  height: 10px;
+  font-size: 1px;
+}
+
+.tech-writing {width: 99%; background-color: #04AA6D;}
+.uml {width: 97%; background-color: #04AA6D;}
+.ui {width: 93%; background-color: #04AA6D;}
+.apis {width: 96%; background-color: #04AA6D;}
+.html {width: 85%; background-color: #04AA6D;} 
+.ssgs {width: 84%; background-color: #04AA6D;}
+.react {width: 75%; background-color: #04AA6D;} 
+.agile {width: 96%; background-color: #04AA6D;} 
+.back-end {width: 59%; background-color: #04AA6D;} 
+.git {width: 81%; background-color: #04AA6D;} 
+.databases {width: 74%; margin-bottom: 30px; background-color: #04AA6D;}
+.product {width: 88%; background-color: #04AA6D;}
+
+
+.skill-bar-text {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    padding-bottom: 0px;
+    font-size: 12px;
+}

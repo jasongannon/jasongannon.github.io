@@ -3,10 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="./style.css"
-    />
+    <link rel="stylesheet" href="./style.css" />
     <title>Jason Gannon</title>
     <meta
       name="description"
@@ -14,82 +11,168 @@
     />
   </head>
   <body>
-    <h1>Vercel HTML Starter</h1>
+    <h1>Jason Gannon — Resume</h1>
+    <h2>Senior Developer and Technical Writer</h2>
     <p>
-      This template is a simple, but powerful single
-      <code>index.html</code> file deployed to
-      <a href="https://vercel.com">Vercel</a>. When your site is deployed, all
-      static assets (like HTML, JavaScript, CSS, images, and more) are deployed
-      globally to every
-      <a href="https://vercel.com/docs/concepts/edge-network/overview"
-        >Vercel Edge Network</a
-      >
-      region.
+      Senior Software Developer and Technical Writer with 14 years experience.
+      Extensive experience creating API documentation and developer experiences.
+      Enjoy working with product managers and developers to create engaging and
+      useful developer experiences.
     </p>
-    <h2>Simple, privacy-friendly analytics</h2>
+    <h2>Summary of Skills</h2>
+    <p class="skill-bar-text">Technical Writing and Information Architecture</p>
+    <div class="container">
+      <div class="skills tech-writing"></div>
+    </div>
+
+    <p class="skill-bar-text">UML Modeling and Diagramming</p>
+    <div class="container">
+      <div class="skills uml"></div>
+    </div>
+
+    <p class="skill-bar-text">API Testing and Documentation</p>
+    <div class="container">
+      <div class="skills apis"></div>
+    </div>
+
+    <p class="skill-bar-text">Product Management; Product Requirements</p>
+    <div class="container">
+      <div class="skills product"></div>
+    </div>
+
+    <p class="skill-bar-text">UI/UX</p>
+    <div class="container">
+      <div class="skills ui"></div>
+    </div>
+
+    <p class="skill-bar-text">HTML/CSS/JavaScript</p>
+    <div class="container">
+      <div class="skills html"></div>
+    </div>
+
+    <p class="skill-bar-text">SSGs (Next.js, Gatsby, Hugo, Astro)</p>
+    <div class="container">
+      <div class="skills ssgs"></div>
+    </div>
+
+    <p class="skill-bar-text">React</p>
+    <div class="container">
+      <div class="skills react"></div>
+    </div>
+
+    <p class="skill-bar-text">Agile, SDLC, Scrum, Kanban</p>
+    <div class="container">
+      <div class="skills agile"></div>
+    </div>
+
+    <p class="skill-bar-text">Version Control, Git</p>
+    <div class="container">
+      <div class="skills git"></div>
+    </div>
+
+    <p class="skill-bar-text">Back End Development (.NET, Node.js, Go, C)</p>
+    <div class="container">
+      <div class="skills back-end"></div>
+    </div>
+
+    <p class="skill-bar-text">Databases (SQL and NoSQL)</p>
+    <div class="container">
+      <div class="skills databases"></div>
+    </div>
+
+    <h2>Work Experience</h2>
+    <h3>Senior Technical Writer</h3>
+    <h5>
+      <a href="https://pacesoft.net">Pace Software </a> | Sep 2021 -
+      Present | Remote
+    </h5>
+    <ul>
+      <li>
+        Design, architect, and govern RESTful APIs development. Creating
+        documentation that validates to Open API specification.
+      </li>
+      <li>
+        Develop our Developer Portal using Redocly Portal; work to bring
+        detailed, comprehensive information to developers
+      </li>
+      <li>
+        Build diagrams and models with tools like UML, C4, mermaid.js, plantUML.
+        Work to provide clear models of complex concepts.
+      </li>
+      <li>
+        DevPortal administrator, edit API references, write business
+        requirements documents (BRDs), technical specifications.
+      </li>
+      <li>
+        Perform several Product Management tasks, including requirements
+        gathering, writing PRDs, and BRds.
+      </li>
+      <li>
+        Create both end-user and internal documentation that communicates
+        essential information in a clear, accurate, and accessible manner.
+      </li>
+      <li>
+        Use a diverse tech stack, including Azure, .NET Core, PostgreSQL,
+        Kubernetes, React, and Kotlin.
+      </li>
+    </ul>
     <p>
-      Want to understand your visitor traffic? Vercel Analytics gives you
-      first-party, privacy-friendly traffic analytics for your HTML site. This
-      template is already configured using the following script:
+      See my work at:
+      <a href="https://developer.pacesoft.net">Pace Software Documentation</a>.
     </p>
-    <pre><code>&lt;script defer src="/_vercel/insights/script.js"&gt;&lt;/script&gt;</code></pre>
-    <p>
-      Learn more about
-      <a href="https://vercel.com/analytics">Vercel Analytics</a>.
-    </p>
-    <h2>Integrated with git</h2>
-    <p>
-      Deploying updates to your site is as simple as
-      <code>git push</code> thanks to Vercel's advanced
-      <a href="https://vercel.com/docs/concepts/git">Git Integration</a>.
-      Support for GitHub, GitLab, Bitbucket is zero-configuration, and with the
-      flexible Vercel CLI and API, you can integrate with any tool possible.
-    </p>
-    <p>
-      Learn more about
-      <a href="https://vercel.com/docs/concepts/git">Git Integration</a>.
-    </p>
-    <h2>Fast <code>gzip</code> compression</h2>
-    <p>
-      To help ensure the smallest possible file sizes for your static assets,
-      the Vercel Edge Network compresses files by default using
-      <code>gzip</code>. You can also optionally use
-      <code>brotli</code> compressesion if you prefer.
-    </p>
-    <p>
-      Learn more about
-      <a href="https://vercel.com/docs/concepts/edge-network/compression"
-        >compression</a
-      >.
-    </p>
-    <h2>Advanced routing configuration</h2>
-    <p>
-      Vercel gives you a variety of ways to configure the routing of your
-      website. For example, adding redirects, rewrites, or headers to your page.
-      While you can use <code>vercel.json</code> to define these through JSON,
-      you can also express your routing configuration as code using
-      <a href="https://vercel.com/docs/concepts/functions/edge-middleware"
-        >Vercel Edge Middleware</a
-      >.
-    </p>
-    <p>
-      Middleware runs before the
-      <a href="https://vercel.com/docs/concepts/edge-network/caching"
-        >Vercel Edge Network Cache</a
-      >, so you can configure routing exactly as your applictation needs. For
-      example, this template uses <code>middleware.js</code> defined in the root
-      of the repository to add additional security headers to the site:
-    </p>
-    <pre><code>referrer-policy: origin-when-cross-origin
-strict-transport-security: max-age=31536000; includeSubDomains; preload
-x-content-type-options: nosniff
-x-dns-prefetch-control: on
-x-frame-options: DENY</code></pre>
-    <p>
-      Learn more about
-      <a href="https://vercel.com/docs/concepts/functions/edge-middleware"
-        >Vercel Edge Middleware</a
-      >.
-    </p>
+
+    <h3>Senior Technical Analyst</h3>
+    <h5>
+      <a href="https://www.conduent.com">Conduent</a> | Sep 2017 -
+      Sep 2021 | Remote
+    </h5>
+    <ul>
+      <li>Analyst for system owner during creation of enterprise web apps.</li>
+      <li>Confirm system owner requirements in UAT.</li>
+      <li>Design documentation and plan end user onboarding.</li>
+      <li>
+        Validated drafts of step guides in the testing environment; capture
+        system updates.
+      </li>
+    </ul>
+
+    <h4>Technical Writer; Front-end Development</h4>
+    <h5>Self-Employed | Oct 2010 - Sep 2017 | Remote</h5>
+    <ul></ul>
+    <li>Front-end development and web content: JavaScript, HTML, CSS.</li>
+    <li>Prepared API documentation and managed CMS.</li>
+    <li>
+      Worked with a global team of developers, product owners, scrum masters to
+      aid documentation.
+    </li>
+    <li>
+      Client list included Hewlett Packard, EY, PwC, Nokia, Ericsson, Siemens.
+    </li>
+
+    <h3>Project Manager</h3>
+    <h5>
+      <a href="https://korteco.com"> The Korte Company</a> | Sep 2004 - Sep 2010 | Las Vegas, Nevada
+    </h5>
+    <ul>
+      <li>Managed all phases of proposal development.</li>
+      <li>
+        Coordinated with subcontractors to provide budget and schedule for
+        proposal.
+      </li>
+      <li>
+        Worked with engineering team SMEs to develop project and systems
+        descriptions.
+      </li>
+      <li>
+        Built and managed department takeoff and estimating databases (MS
+        Access).
+      </li>
+    </ul>
+
+    <h2>Education</h2>
+    <h5>
+      Bachelor of Arts in English Literature, Purdue University, West Lafayette,
+      IN, 2004
+    </h5>
   </body>
 </html>
