@@ -343,9 +343,10 @@ dd::before {
 
 hr {
 	/* Reset the border of the <hr> separator, then set a better line */
-	border: 0;
-	border-bottom: 1px solid var(--nc-bg-3);
+	border: 1;
+	border-bottom: 1px solid ;
 	margin: 1rem auto;
+	color: #fff;
 }
 
 fieldset {
