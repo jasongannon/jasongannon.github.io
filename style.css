@@ -453,17 +453,16 @@ img {
 }
 
 .tech-writing {width: 99%; background-color: #04AA6D;}
-.uml {width: 97%; background-color: #04AA6D;}
-.ui {width: 93%; background-color: #04AA6D;}
-.apis {width: 96%; background-color: #04AA6D;}
-.html {width: 85%; background-color: #04AA6D;} 
+.apis {width: 90%; background-color: #04AA6D;}
+.html {width: 89%; background-color: #04AA6D;} 
 .ssgs {width: 84%; background-color: #04AA6D;}
-.react {width: 75%; background-color: #04AA6D;} 
-.agile {width: 96%; background-color: #04AA6D;} 
-.back-end {width: 59%; background-color: #04AA6D;} 
-.git {width: 81%; background-color: #04AA6D;} 
-.databases {width: 74%; margin-bottom: 30px; background-color: #04AA6D;}
+.uml {width: 87%; background-color: #04AA6D;}
 .product {width: 88%; background-color: #04AA6D;}
+.ui {width: 85%; background-color: #04AA6D;}
+.react {width: 75%; background-color: #04AA6D;} 
+.back-end {width: 59%; background-color: #04AA6D;} 
+.databases {width: 74%; margin-bottom: 30px; background-color: #04AA6D;}
+
 
 
 .skill-bar-text {
