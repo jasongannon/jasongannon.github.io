@@ -76,7 +76,7 @@ html,input,select,button {
 body {
 	/* Center body in page */
 	margin: 0 auto;
-	max-width: 750px;
+	max-width: 900px;
 	padding: 2rem;
 	border-radius: 6px;
 	overflow-x: hidden;
@@ -453,15 +453,16 @@ img {
 }
 
 .tech-writing {width: 99%; background-color: #04AA6D;}
-.apis {width: 90%; background-color: #04AA6D;}
-.html {width: 89%; background-color: #04AA6D;} 
-.ssgs {width: 84%; background-color: #04AA6D;}
-.uml {width: 87%; background-color: #04AA6D;}
-.product {width: 88%; background-color: #04AA6D;}
+.web-dev {width: 85%; background-color: #04AA6D;}
+.react-frame {width: 87%; background-color: #04AA6D;}
+.apis {width: 96%; background-color: #04AA6D;}
+.doc-tools {width: 95%; background-color: #04AA6D;} 
+.vcs {width: 74%; background-color: #04AA6D;}
+.seo {width: 96%; background-color: #04AA6D;}
 .ui {width: 85%; background-color: #04AA6D;}
-.react {width: 75%; background-color: #04AA6D;} 
-.back-end {width: 59%; background-color: #04AA6D;} 
-.databases {width: 74%; margin-bottom: 30px; background-color: #04AA6D;}
+.info-arch {width: 98%; background-color: #04AA6D;} 
+.data-viz {width: 91%; margin-bottom: 30px; background-color: #04AA6D;} 
+.research {width: 99%; background-color: #04AA6D;}
 
 
 
