@@ -407,6 +407,7 @@ ol ul,
 ul ol,
 ol ol {
 	margin-bottom: 0;
+	
 }
 
 mark {
@@ -457,7 +458,7 @@ img {
 .react-frame {width: 87%; background-color: #04AA6D;}
 .apis {width: 96%; background-color: #04AA6D;}
 .doc-tools {width: 95%; background-color: #04AA6D;} 
-.vcs {width: 74%; background-color: #04AA6D;}
+.vcs {width: 79%; background-color: #04AA6D;}
 .seo {width: 96%; background-color: #04AA6D;}
 .ui {width: 85%; background-color: #04AA6D;}
 .info-arch {width: 98%; background-color: #04AA6D;} 
