@@ -134,6 +134,7 @@ h1 {
 
 h2 {
   font-size: 1.85rem;
+  margin-top: 20px;
 }
 
 h3 {
@@ -465,51 +466,48 @@ img {
   font-size: 1px;
 }
 
+
+.api-design {
+  width: 98%;
+  background-color: #04aa6d;
+}
+.openapi {
+  width: 99%;
+  background-color: #04aa6d;
+}
+.dev-portal {
+  width: 96%;
+  background-color: #04aa6d;
+}
+.fintech {
+  width: 92%;
+  background-color: #04aa6d;
+}
+.regulatory {
+  width: 83%;
+  background-color: #04aa6d;
+}
+.programming {
+  width: 81%;
+  background-color: #04aa6d;
+}
 .tech-writing {
   width: 99%;
   background-color: #04aa6d;
 }
-.web-dev {
-  width: 85%;
-  background-color: #04aa6d;
-}
-.react-frame {
-  width: 87%;
-  background-color: #04aa6d;
-}
-.apis {
-  width: 96%;
-  background-color: #04aa6d;
-}
-.doc-tools {
-  width: 95%;
-  background-color: #04aa6d;
-}
-.vcs {
-  width: 81%;
-  background-color: #04aa6d;
-}
-.seo {
-  width: 96%;
-  background-color: #04aa6d;
-}
-.ui {
-  width: 85%;
-  background-color: #04aa6d;
-}
 .info-arch {
-  width: 98%;
+  width: 94%;
   background-color: #04aa6d;
 }
-.data-viz {
-  width: 91%;
-  margin-bottom: 30px;
+.vc {
+  width: 83%;
   background-color: #04aa6d;
 }
-.research {
-  width: 99%;
+.agile {
+  width: 88%;
   background-color: #04aa6d;
 }
+
 
 .skill-bar-text {
   margin-bottom: 0px;
@@ -526,6 +524,8 @@ img {
   text-align: center;
   text-decoration: none;
   margin-right: 20px;
+  background: var(--nc-bg-1);
+  color: var(--nc-tx-1);
 }
 
 /* Add a hover effect if you want */
@@ -533,19 +533,11 @@ img {
   opacity: 0.5;
 }
 
-.fa-github {
-  background: #000;
-  color: #fff;
-}
-.fa-linkedin {
-  background: #000;
-  color: #fff;
-}
-.fa-envelope {
-  background: #000;
-  color: #fff;
-}
+/* Remove individual color definitions for each icon */
+.fa-github,
+.fa-linkedin,
+.fa-envelope,
 .fa-blog {
-  background: #000;
-  color: #fff;
+  background: var(--nc-bg-1);
+  color: var(--nc-tx-1);
 }
