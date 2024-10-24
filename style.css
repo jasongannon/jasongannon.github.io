@@ -535,6 +535,7 @@ img {
 .fa-github,
 .fa-linkedin,
 .fa-envelope,
+.fa-file-pdf-o,
 .fa-blog {
   background: var(--nc-bg-2);
   color: var(--nc-tx-1);
