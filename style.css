@@ -88,7 +88,7 @@ body {
   overflow-x: hidden;
   word-break: break-word;
   overflow-wrap: break-word;
-  background: var(--nc-bg-1);
+  background: var(--nc-bg-2);
 
   /* Main body text */
   color: var(--nc-tx-2);
@@ -467,43 +467,43 @@ img {
 }
 
 .api-design {
-  width: 98%;
+  width: 97%;
   background-color: #04aa6d;
 }
 .openapi {
-  width: 99%;
+  width: 98%;
   background-color: #04aa6d;
 }
 .dev-portal {
-  width: 96%;
+  width: 95%;
   background-color: #04aa6d;
 }
 .fintech {
-  width: 92%;
+  width: 91%;
   background-color: #04aa6d;
 }
 .regulatory {
-  width: 83%;
+  width: 92%;
   background-color: #04aa6d;
 }
 .programming {
-  width: 87%;
+  width: 91%;
   background-color: #04aa6d;
 }
 .tech-writing {
-  width: 99%;
+  width: 100%;
   background-color: #04aa6d;
 }
 .info-arch {
-  width: 94%;
+  width: 98%;
   background-color: #04aa6d;
 }
 .vc {
-  width: 83%;
+  width: 94%;
   background-color: #04aa6d;
 }
 .agile {
-  width: 88%;
+  width: 93%;
   background-color: #04aa6d;
 }
 
@@ -536,6 +536,6 @@ img {
 .fa-linkedin,
 .fa-envelope,
 .fa-blog {
-  background: var(--nc-bg-1);
+  background: var(--nc-bg-2);
   color: var(--nc-tx-1);
 }
